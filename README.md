@@ -1,11 +1,11 @@
 # Data Structures and Algorithms
 
-This repository contains five Java-based projects built for the Data Structures and Algorithms course at Carnegie Mellon University (CMU). The projects focus on implementing fundamental CS algorithms and data structures to parse, secure, and process real-world data efficiently.
+This repository contains five Java-based projects built for the Data Structures and Algorithms course (95-771) at Carnegie Mellon University (CMU).
 
-## 📂 Projects Overview
+## Projects Overview
 
 ### Project 1: Cryptography and Merkle Trees
-Implemented various data structures (Singly Linked Lists, Ordered Linked Lists) from scratch, leading up to an application of the Merkle-Hellman Knapsack Cryptosystem. The project culminated in building a **Merkle Tree** from a set of mocked data structures to ensure data integrity and cryptographic verification.
+Implemented various data structures (Singly Linked Lists, Ordered Linked Lists) from scratch, leading up to an application of the Merkle-Hellman Knapsack Cryptosystem. Finally, the project involved building a **Merkle Tree** from a set of mocked data structures to ensure data integrity and cryptographic verification.
 
 ### Project 2: 2D Trees & Spatial Queries (K-D Trees)
 Created a spatial data structure known as a **2-D Tree** (a specific case of a K-D Tree) to perform efficient two-dimensional range queries and nearest-neighbor searches. The project utilized Pittsburgh crime data spanning 1990 to visualize geographic patterns using generated KML outputs on Google Earth.
@@ -21,7 +21,3 @@ Modeled real-world crime coordinates as graph nodes to study the **Traveling Sal
 ### Project 5: LZW Compression
 Developed a lossless data compression algorithm utilizing the **Lempel-Ziv-Welch (LZW)** dictionary-based approach. The project implemented custom Hash Tables along with proper collision resolution to construct the dictionary dynamically during compression and decompression stages.
 
-## 🛠 Tech Stack
-- **Language:** Java 
-- **Tools:** IntelliJ IDEA, Object-Oriented Design
-- **Concepts:** Trees (K-D, Red-Black, Merkle), Graphs (MST, TSP), Linked Lists, Hash Tables, Data Compression.
